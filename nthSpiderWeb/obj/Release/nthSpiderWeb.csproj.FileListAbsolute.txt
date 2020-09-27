@@ -1,0 +1,15 @@
+D:\Programming\Project files\nthSpiderWeb\bin\Release\nthSpiderWeb.exe.config
+D:\Programming\Project files\nthSpiderWeb\bin\Release\nthSpiderWeb.exe
+D:\Programming\Project files\nthSpiderWeb\bin\Release\nthSpiderWeb.pdb
+D:\Programming\Project files\nthSpiderWeb\obj\Release\nthSpiderWeb.csprojAssemblyReference.cache
+D:\Programming\Project files\nthSpiderWeb\obj\Release\MainWindow.g.cs
+D:\Programming\Project files\nthSpiderWeb\obj\Release\App.g.cs
+D:\Programming\Project files\nthSpiderWeb\obj\Release\nthSpiderWeb_MarkupCompile.cache
+D:\Programming\Project files\nthSpiderWeb\obj\Release\nthSpiderWeb_MarkupCompile.lref
+D:\Programming\Project files\nthSpiderWeb\obj\Release\MainWindow.baml
+D:\Programming\Project files\nthSpiderWeb\obj\Release\nthSpiderWeb.g.resources
+D:\Programming\Project files\nthSpiderWeb\obj\Release\nthSpiderWeb.Properties.Resources.resources
+D:\Programming\Project files\nthSpiderWeb\obj\Release\nthSpiderWeb.csproj.GenerateResource.cache
+D:\Programming\Project files\nthSpiderWeb\obj\Release\nthSpiderWeb.csproj.CoreCompileInputs.cache
+D:\Programming\Project files\nthSpiderWeb\obj\Release\nthSpiderWeb.exe
+D:\Programming\Project files\nthSpiderWeb\obj\Release\nthSpiderWeb.pdb

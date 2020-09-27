@@ -1,0 +1,15 @@
+D:\Programming\Project files\nthSpiderWeb\bin\Debug\nthSpiderWeb.exe.config
+D:\Programming\Project files\nthSpiderWeb\bin\Debug\nthSpiderWeb.exe
+D:\Programming\Project files\nthSpiderWeb\bin\Debug\nthSpiderWeb.pdb
+D:\Programming\Project files\nthSpiderWeb\obj\Debug\nthSpiderWeb.csprojAssemblyReference.cache
+D:\Programming\Project files\nthSpiderWeb\obj\Debug\MainWindow.g.cs
+D:\Programming\Project files\nthSpiderWeb\obj\Debug\App.g.cs
+D:\Programming\Project files\nthSpiderWeb\obj\Debug\nthSpiderWeb_MarkupCompile.cache
+D:\Programming\Project files\nthSpiderWeb\obj\Debug\nthSpiderWeb_MarkupCompile.lref
+D:\Programming\Project files\nthSpiderWeb\obj\Debug\MainWindow.baml
+D:\Programming\Project files\nthSpiderWeb\obj\Debug\nthSpiderWeb.g.resources
+D:\Programming\Project files\nthSpiderWeb\obj\Debug\nthSpiderWeb.Properties.Resources.resources
+D:\Programming\Project files\nthSpiderWeb\obj\Debug\nthSpiderWeb.csproj.GenerateResource.cache
+D:\Programming\Project files\nthSpiderWeb\obj\Debug\nthSpiderWeb.csproj.CoreCompileInputs.cache
+D:\Programming\Project files\nthSpiderWeb\obj\Debug\nthSpiderWeb.exe
+D:\Programming\Project files\nthSpiderWeb\obj\Debug\nthSpiderWeb.pdb

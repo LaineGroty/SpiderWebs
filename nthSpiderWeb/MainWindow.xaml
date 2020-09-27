@@ -1,0 +1,33 @@
+﻿<Window x:Class="nthSpiderWeb.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:nthSpiderWeb"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="450"
+        SizeChanged="Window_SizeChanged">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="10"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="10"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="10"/>
+        </Grid.RowDefinitions>
+
+        <DockPanel Grid.Column="1" Grid.Row="1">
+            <TextBlock Text="Points"/>
+            <TextBox x:Name="TextBox_Points" Width="100" Margin="10,0,0,0" HorizontalAlignment="Left" TextChanged="TextBox_Points_TextChanged"/>
+        </DockPanel>
+
+        <Border Grid.Column="1" Grid.Row="3" BorderBrush="Black" BorderThickness="1">
+            <Canvas x:Name="Canvas_Points" Background="GhostWhite"/>
+        </Border>
+    </Grid>
+</Window>
